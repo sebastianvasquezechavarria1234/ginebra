@@ -1,6 +1,6 @@
 # 🍸 Ginebra - Frontend & Animation Practice
 
-![Ginebra Project Banner](./img/img-banner.png)
+![Ginebra Project Banner](./img/ginebra-readmit.png)
 
 ## 📝 Project Description
 This project is an **advanced Frontend development and interactive animation practice**. The main goal was to replicate and experiment with the premium aesthetics and fluid interactions of a luxury brand website (Ginebra Unidad).
